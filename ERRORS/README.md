@@ -1,0 +1,5 @@
+## List of errors faced during project.
+1. Truffle installation issue - Use nvm to download (in this case downgrade) node version. You can have multiple node versions installed and use nvm to switch between them accordingly.
+2. Truffle unbox react issue - The latest versions of truffle-react box does not contain Migrations.sol. Use the template development folder present in GitHub account. Second solution: Use ```truffle init``` and then ```truffle unbox react``` to get migrations folder and truffle folder (SimpleStorage.sol).
+3. Setting up Metamask with Truffle Develop - Set the localhost address in the ```truffle-config.js``` and the networkID/chainID as you like. Change the ```truffle-config.js``` or adjust accordingly. Afterwards, choose private key and create account. 
+  > Eventhough the networkID is 5777 metamask wants it to be 1337. Why does it work? 
