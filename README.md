@@ -6,9 +6,9 @@
 ## Development-Goal
 - Showcase Event-Triggers
 - Understand the low-level function address.call.value()()
--Understand the Workflow with Truffle
--Understand Unit Testing with Truffle
--Understand Events in HTML
+- Understand the Workflow with Truffle
+- Understand Unit Testing with Truffle
+- Understand Events in HTML
 #
 #
 #
