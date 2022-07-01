@@ -13,7 +13,6 @@
 #
 ## Migration
 <details><summary>Result of Migration</summary>
-```   
 Starting migrations...
 ======================
 > Network name:    'develop'
@@ -70,7 +69,6 @@ Summary
 =======
 > Total deployments:   2
 > Final cost:          0.005343897268263525 ETH
-```
 </details>
 
 After receiving the alert use:
