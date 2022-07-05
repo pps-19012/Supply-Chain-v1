@@ -1,5 +1,26 @@
 {
   "dependencies": {
     "@openzeppelin/contracts": "^4.6.0"
-  }
+  },
+  "name": "supply-chain-v1",
+  "description": "- Can be part of a supply-chain solution\r - Automated Dispatch upon payment\r - Payment collection without middlemen\r ## Development-Goal\r - Showcase Event-Triggers\r - Understand the low-level function address.call.value()()\r - Understand the Workflow with Truffle\r - Understand Unit Testing with Truffle\r - Understand Events in HTML\r #\r #\r ## Migration\r <details><summary>Result of Migration</summary>\r Starting migrations...\r ======================\r > Network name:    'develop'\r > Network id:      5777\r > Block gas limit: 6721975 (0x6691b7)",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pps-19012/Supply-Chain-v1.git"
+  },
+  "author": "Pushpendra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pps-19012/Supply-Chain-v1/issues"
+  },
+  "homepage": "https://github.com/pps-19012/Supply-Chain-v1#readme"
 }
